@@ -4,6 +4,7 @@ body{
 	background-color: lightsteelblue;
 	margin: 0px;
 	padding: 0px;
+	width:80%;
 }
 
 #container{
@@ -28,6 +29,7 @@ nav{
 	background-color: ghostwhite;
 	margin: 2px;
 	overflow: hidden;
+	width:80%;
 
 }
 
@@ -90,6 +92,7 @@ nav ul li a{
 	line-height: 0px;
 	margin: 45px 0px 25px;
 	padding: 50px;
+	width:80%;
 }
 
 .text-container button{
